@@ -32,5 +32,7 @@ public class Main {
 
         System.out.println();
         drFelipe.printRoster();
+        System.out.println();
+        System.out.println(drFelipe.createAnnouncement("Your project is due Tuesday."));
     }
 }

@@ -30,6 +30,9 @@ public class Instructor extends Person {
                     " | GPA: " + s.getGpa());
         }
     }
+    public String createAnnouncement(String message) {
+        return "Announcement from Dr. " + getLastName() + ": " + message;
+    }
 
     @Override
     public void getSummary() {
