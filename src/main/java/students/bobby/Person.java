@@ -1,4 +1,4 @@
-package main.java.students.bobby;
+package students.bobby;
 
 public abstract class Person {
     private int id;

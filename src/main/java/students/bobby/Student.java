@@ -1,4 +1,4 @@
-package main.java.students.bobby;
+package students.bobby;
 
 public class Student extends Person {
 
