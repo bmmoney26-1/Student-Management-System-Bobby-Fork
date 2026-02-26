@@ -25,7 +25,7 @@ public class Main {
         people.add(s2);
         people.add(drFelipe);
 
-        // 🔥 Polymorphism in action
+        //  Polymorphism in action
         for (Person p : people) {
             p.getSummary();
         }
