@@ -1,4 +1,4 @@
-package students.jordaneldridge;
+package main.java.students.jordaneldridge;
 
 public class Person {
 
